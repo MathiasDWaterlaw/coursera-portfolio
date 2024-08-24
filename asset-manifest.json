@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/coursera-portfolio/static/css/main.6669fc85.css",
+    "main.js": "/coursera-portfolio/static/js/main.84f0f8dc.js",
+    "static/js/453.fc54d88b.chunk.js": "/coursera-portfolio/static/js/453.fc54d88b.chunk.js",
+    "static/media/photo4.jpg": "/coursera-portfolio/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
+    "static/media/photo2.jpg": "/coursera-portfolio/static/media/photo2.7d510936625768642967.jpg",
+    "static/media/photo3.jpg": "/coursera-portfolio/static/media/photo3.9a32dfac129b20149889.jpg",
+    "static/media/photo1.jpg": "/coursera-portfolio/static/media/photo1.76b22eb753ddc88e0626.jpg",
+    "index.html": "/coursera-portfolio/index.html",
+    "main.6669fc85.css.map": "/coursera-portfolio/static/css/main.6669fc85.css.map",
+    "main.84f0f8dc.js.map": "/coursera-portfolio/static/js/main.84f0f8dc.js.map",
+    "453.fc54d88b.chunk.js.map": "/coursera-portfolio/static/js/453.fc54d88b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6669fc85.css",
+    "static/js/main.84f0f8dc.js"
+  ]
+}
